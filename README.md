@@ -12,4 +12,8 @@ The noteboooks were developed on Google Colab, which is the easiest way to run, 
 
 ## Datasets and models
 
-The checkpoints of the best performing model checkpoints and the dataset contaning the distillation features used in the intra-dataset approach can be found in the `models` and `datasets` directories. The most convenient way to use them is to copy a direct link to them on GitHub, and use wget for example to download them on Colab. This way there is no need to download them first and then upload them to Colab, where especially the uploading stage can be very slow. The models and datasets are compressed to zip-files, which need to be decompressed on Colab before loading them.
+[The weights at best performing model checkpoint of the teacher model](https://seafile.utu.fi/f/29d2ba443d7948bdaffb/) and [the dataset containing the distillation features](https://seafile.utu.fi/f/b4a45a8da6f04dd4831a/) used in the intra-dataset approach can be found on University of Turku Seafile. The most convenient way to use them is to copy the direct download link from below, and use wget for example to download them on Colab. This way there is no need to download them first and then upload them to Colab, where especially the uploading stage can be very slow. The models and datasets are compressed to zip-files, which need to be decompressed on Colab before loading them.
+
+Direct download links:
+- Dataset with distillation features: https://seafile.utu.fi/seafhttp/f/b4a45a8da6f04dd4831a/?op=view
+- Emotion detection fine-tuned teacher model: https://seafile.utu.fi/seafhttp/f/29d2ba443d7948bdaffb/?op=view
