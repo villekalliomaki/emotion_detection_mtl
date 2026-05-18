@@ -6,9 +6,9 @@ This repository contains the Python implementations for a thesis researching how
 
 The noteboooks were developed on Google Colab, which is the easiest way to run, edit and view them. Opening the notebooks on GitHub doesn't currectly work, so the links below can be used to view them on Colab.
 
-[The intra-dataset approach (one dataset)](https://colab.research.google.com/github/villekalliomaki/emotion_detection_mtl/blob/main/notebooks/MTL_Emotion_detection_Intra_dataset_approach.ipynb#scrollTo=bDB73VhzNGns)
+[The intra-dataset approach (one dataset)](https://colab.research.google.com/github/villekalliomaki/emotion_detection_mtl/blob/main/notebooks/MTL_Emotion_detection_Intra_dataset_approach.ipynb)
 
-[The inter-dataset approach (multiple datasets)](https://colab.research.google.com/github/villekalliomaki/emotion_detection_mtl/blob/main/notebooks/MTL_Emotion_detection_Intra_dataset_approach.ipynb)
+[The inter-dataset approach (multiple datasets)](https://colab.research.google.com/github/villekalliomaki/emotion_detection_mtl/blob/main/notebooks/MTL_Emotion_detection_Inter_dataset_approach.ipynb)
 
 ## Datasets and models
 
